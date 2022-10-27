@@ -1,0 +1,19 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:item": {
+        "description": {
+            "identifier": "nick:torch_offhand",
+            "category": "equipment"
+        },
+        "components": {
+            "minecraft:foil": false,
+            "minecraft:block_placer": {
+                "block": "minecraft:torch"
+            },
+            "minecraft:icon": {
+                "texture": "torch_offhand"
+            },
+            "minecraft:allow_off_hand": true
+        }
+    }
+}

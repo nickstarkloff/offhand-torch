@@ -1,0 +1,40 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Offhand Torch [B]",
+        "description": "Adds Offhand Torch. Requires experimental features.",
+        "min_engine_version": [
+            1,
+            19,
+            30
+        ],
+        "uuid": "cf9538d2-c182-4022-8608-d7f23b5391a3",
+        "version": [
+            1,
+            0,
+            1
+        ]
+    },
+    "modules": [
+        {
+            "description": "Adds Offhand Torch. Requires experimental features.",
+            "type": "data",
+            "uuid": "721a1263-dd74-4435-84a8-e393a610d1f7",
+            "version": [
+                1,
+                0,
+                1
+            ]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "ba5b8952-776b-404e-90a2-def113244040",
+            "version": [
+                1,
+                0,
+                1
+            ]
+        }
+    ]
+}

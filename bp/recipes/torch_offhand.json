@@ -1,0 +1,22 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "nick:torch_offhand"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "key": {
+            "B": {
+                "item": "minecraft:torch"
+            }
+        },
+        "pattern": [
+            "B"
+        ],
+        "result": {
+            "item": "nick:torch_offhand"
+        }
+    }
+}
